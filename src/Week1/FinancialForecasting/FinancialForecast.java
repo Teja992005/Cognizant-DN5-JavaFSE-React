@@ -1,4 +1,4 @@
-package FinancialForecasting;
+package Week1.FinancialForecasting;
 
 public class FinancialForecast {
 

@@ -1,4 +1,4 @@
-package FactoryMethodPatternExample;
+package Week1.FactoryMethodPatternExample;
 
 public interface Document {
     void open();

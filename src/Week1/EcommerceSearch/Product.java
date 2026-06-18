@@ -1,4 +1,4 @@
-package EcommerceSearch;
+package Week1.EcommerceSearch;
 public class Product {
     private int productId;
     private String productName;

@@ -1,4 +1,4 @@
-package FactoryMethodPatternExample;
+package Week1.FactoryMethodPatternExample;
 
 public class WordDocument implements Document{
     @Override
